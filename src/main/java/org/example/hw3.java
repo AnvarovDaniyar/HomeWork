@@ -125,7 +125,6 @@ public class hw3<T extends Comparable<T>> {
 
 
 
-
     // Необязательные поля
     public void print() {
 
